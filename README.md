@@ -1,5 +1,5 @@
 # simplePhotoBlog
-Super simple photo blog thrown together to pracitce basic CSS
+Super simple photo blog thrown together to practice basic CSS
 
 Sources and Lisencing In the Source Code
 
